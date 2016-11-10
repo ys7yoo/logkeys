@@ -12,8 +12,11 @@ Prerequisites
 
 You need autotools to build the code from source:
 
-    apt-get update
-    apt-get install -y autotools
+    apt install -y autotools-dev
+#    apt-get update
+#    apt-get install -y autotools
+
+
 
 Build and Install
 -----------------
